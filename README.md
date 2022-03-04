@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tortkara
 - 👀 I’m interested in programming and linux
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me qwerty121193@gmail.com
+- 📫 How to reach me @fredonu telegram
 
 <!---
 tortkara/tortkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
